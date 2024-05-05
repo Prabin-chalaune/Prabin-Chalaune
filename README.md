@@ -1,13 +1,5 @@
-<style>
-  hr {
-    border: none;
-    height: 1px;
-    background-color: black;
-    margin: 10px 0; 
-  }
-</style>
 <p align="left">I am Prabin K. Chalaune 👋</h1>
-<hr style={height}>
+<hr>
 <p align="left">I'm a passionate FullStack software developer, currently pursuing my undergraduate degree in computer engineering at IOE Constituent Campus. </h3>
 
 - 📫 How to reach me **prabinchalaune@gmail.com**
