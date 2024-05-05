@@ -1,10 +1,10 @@
 <p align="left">I am Prabin K. Chalaune 👋</h1>
 <hr>
 <p align="left">I'm a passionate FullStack software developer, currently pursuing my undergraduate degree in computer engineering at IOE Constituent Campus. </h3>
-- Graphic Desiner
-- Exploring DevOps
-- Youtube Content Creation
-- 📫 How to reach me *prabinchalaune@gmail.com*
+<li>Graphic Desiner</li>
+<li>Exploring DevOps</li>
+<li>Youtube Content Creation</li>
+<li>📫 How to reach me **prabinchalaune@gmail.com**</li>
 
 <p align="left">Contact:</h3>
 <p align="left">
