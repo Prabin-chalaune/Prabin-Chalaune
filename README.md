@@ -1,8 +1,14 @@
+<style>
+  hr {
+    border: none;
+    height: 1px;
+    background-color: black;
+    margin: 10px 0; 
+  }
+</style>
 <p align="left">I am Prabin K. Chalaune 👋</h1>
-<hr>
+<hr style={height}>
 <p align="left">I'm a passionate FullStack software developer, currently pursuing my undergraduate degree in computer engineering at IOE Constituent Campus. </h3>
-<img align="right" width="400" alt="Coding" src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif"/>
-
 
 - 📫 How to reach me **prabinchalaune@gmail.com**
 <hr>
