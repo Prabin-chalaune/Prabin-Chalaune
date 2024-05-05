@@ -4,8 +4,9 @@
 <li>Graphic Desiner</li>
 <li>Exploring DevOps</li>
 <li>Youtube Content Creation</li>
-<li>📫 How to reach me **prabinchalaune@gmail.com**</li>
+<li>📫 How to reach me  **prabinchalaune@gmail.com**</li>
 
+<span></span>
 <p align="left">Contact:</h3>
 <p align="left">
 <a href="https://twitter.com/https://twitter.com/prabinchalaune" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="https://twitter.com/prabinchalaune" height="30" width="40" /></a>
