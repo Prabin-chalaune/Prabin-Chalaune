@@ -1,4 +1,4 @@
-<h1 align="left">👋 Hi, I'm Prabin K. Chalaune</h1>
+<h2 align="left">👋 Hi, I'm Prabin K. Chalaune</h1>
 <hr>
 <p align="left">I'm a passionate FullStack software developer, currently pursuing B.E. in computer engineering at IOE Constituent Campus. </h3>
 <!-- <li>Graphic Desiner</li> -->
@@ -8,7 +8,7 @@
 
 <span></span>
 <span></span>
-<p align="left">Contact:</h3>
+<h2 align="left">Contact:</h3>
 <p align="left">
 <a href="https://twitter.com/https://twitter.com/prabinchalaune" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="https://twitter.com/prabinchalaune" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/prabin-chalaune-563017239/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/prabin-chalaune-563017239/" height="30" width="40" /></a>
