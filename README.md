@@ -1,5 +1,4 @@
 <h2 align="left">👋 Hi, I'm Prabin K. Chalaune</h1>
-<hr>
 <p align="left">I'm a passionate FullStack software developer, currently pursuing B.E. in computer engineering at IOE Constituent Campus. </h3>
 <!-- <li>Graphic Desiner</li> -->
 <li>Exploring DevOps</li>
