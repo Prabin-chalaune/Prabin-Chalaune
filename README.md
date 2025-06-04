@@ -1,5 +1,5 @@
 <h2 align="left">👋 Hi, I'm Prabin K. Chalaune</h1>
-<p align="left">I'm a passionate FullStack software developer, and completed B.E. in computer engineering at IOE Constituent Campus. </h3>
+<p align="left">I'm a passionate FullStack software developer, and completed B.E. in computer engineering from IOE Purwanchal Campus. </h3>
 <!-- <li>Graphic Desiner</li> -->
 <!-- <li>Exploring DevOps</li> -->
 <li>Youtube Content Creation</li>
