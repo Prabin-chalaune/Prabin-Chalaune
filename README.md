@@ -1,7 +1,7 @@
 <h2 align="left">👋 Hi, I'm Prabin K. Chalaune</h1>
 <p align="left">I'm a passionate FullStack software developer, and completed B.E. in computer engineering from Tribhuvan University, IOE Purwanchal Campus. </h3>
 <!-- <li>Graphic Desiner</li> -->
-<li>Exploring DevOps</li>
+<li>Exploring DevOps, AI/ML research.</li>
 <li>Youtube Content Creation</li>
 <li>📫 How to reach me  **prabinchalaune@gmail.com**</li>
 
