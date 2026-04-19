@@ -9,11 +9,21 @@
 <span></span>
 <h2 align="left">Contact:</h3>
 <p align="left">
-<a href="https://twitter.com/https://twitter.com/prabinchalaune" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="https://twitter.com/prabinchalaune" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/prabin-chalaune-563017239/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/prabin-chalaune-563017239/" height="30" width="40" /></a>
-<a href="https://fb.com/https://www.facebook.com/prabin.chalaune.1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/prabin.chalaune.1" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/https://www.youtube.com/@edutechmentor" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/@edutechmentor" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/https://leetcode.com/prabinchane/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/prabinchalaune/" height="30" width="40" /></a>
+<a href="https://twitter.com/prabinchalaune" target="blank">
+<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="twitter" height="30" width="40" />
+</a>
+<a href="https://linkedin.com/in/prabin-chalaune-563017239/" target="blank">
+<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" />
+</a>
+<a href="https://facebook.com/prabin.chalaune.1" target="blank">
+<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="facebook" height="30" width="40" />
+</a>
+<a href="https://www.youtube.com/@edutechmentor" target="blank">
+<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="youtube" height="30" width="40" />
+</a>
+<a href="https://leetcode.com/prabinchane/" target="blank">
+<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="leetcode" height="30" width="40" />
+</a>
 </p>
 <span></span>
 <span></span>
