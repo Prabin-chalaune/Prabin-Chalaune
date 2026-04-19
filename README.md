@@ -1,5 +1,5 @@
-<h2 align="left">👋 Hi, I'm Prabin ! </h1>
-<p align="left">I'm a passionate FullStack software developer, and completed B.E. in computer engineering from IOE,TU </h3>
+<h2 align="left">👋 Hi, I'm Prabin ! </h2>
+<p align="left">I'm a passionate FullStack software developer, and completed B.E. in computer engineering from IOE,TU </p>
 <!-- <li>Graphic Desiner</li> -->
 <li>Exploring DevOps, AI/ML.</li>
 <li>Youtube Content Creation</li>
