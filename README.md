@@ -1,5 +1,5 @@
 <h2 align="left">👋 Hi, I'm Prabin ! </h2>
-<p align="left">I'm a passionate Software developer, and completed B.E. in computer engineering from IOE,TU </p>
+<p align="left">I'm a passionate Software developer, and completed B.E. in computer engineering from IOE,Tribhuvan University </p>
 
 <li>Exploring DevOps, AI/ML.</li>
 <li>Youtube Content Creation</li>
